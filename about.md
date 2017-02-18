@@ -1,17 +1,15 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+I’ve been a grassroots lawyer, a Human Rights activist, an access to justice specialist for the U.N., a judicial and legal reform consultant for the World Bank, a justice sector project manager for other international agencies, a social entrepreneur, an innovation management consultant and trainer, a college lecturer and an improv actor. 
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Currently, I’m the Executive Director of a small nonprofit, I practice Aikido frequently, and, above all, I am dedicating to being the best father and a husband I can be.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+On the side, I am trying to learn design, drawing, programming, business and writing.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am originally for Venezuela, but I now live in a beautiful and peaceful rural area on the East Coast of the United States.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Please contact me if I can be of any assistance to you. My email is in the footer of this website.
