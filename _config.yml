@@ -50,6 +50,13 @@ descriptions:
     
   - cat: learning  
     desc: "Posts about Learning."
+    
+  - cat: improv
+    desc: "Posts about improv acting fundamentals."
+    
+  - cat: design
+    desc: "Posts about design thinking and how it can be used in other fields."
+
 
 # Social icons and sharing options
 #
