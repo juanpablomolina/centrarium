@@ -4,7 +4,7 @@ layout: post
 title:  "The Heart of Aikido"
 categories: aikido
 tags:	summary
-cover:  "assets/the heart of aikido.jpg"
+cover: "assets/heart_aikido.jpg"
 ---
 
 # The Heart Of Aikido 
