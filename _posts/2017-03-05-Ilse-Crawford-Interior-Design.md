@@ -8,7 +8,7 @@ tags:	interior design, notes
 
 # Interior Design notes
 
-These are my notes from [Abstract The Art of Design, Episode 6: Ilse Crawford: Interior Design][https://www.netflix.com/title/80057883].
+These are my notes from [Abstract The Art of Design, Episode 6: Ilse Crawford: Interior Design](https://www.netflix.com/title/80057883).
 
 ## Keywords and Concepts   
 
