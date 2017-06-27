@@ -1,6 +1,7 @@
 ---
-permalink: "/learningsurfing"
+permalink: "/surfinglesson"
 layout: post
+title: "Surfing Lesson 1 "
 categories: til  
 tags: surfing
 ---
