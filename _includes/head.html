@@ -35,7 +35,7 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="{{ "assets/icons/ms-icon-144x144.png" | prepend: site.baseurl }}">
 	<meta name="theme-color" content="#ffffff">
-
+	
 	<!-- Facebook OGP cards -->
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:url" content="{{ site.url }}" />
@@ -66,4 +66,5 @@
   <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+<meta name="google-site-verification" content="teXqn4yM6VToTYNUNBtqa0p0MfPt7v0Gs5BXsXW_1oM" />
 </head>
